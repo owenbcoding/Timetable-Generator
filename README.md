@@ -1,3 +1,5 @@
+For this project I set it up in wsl and set up the docker files and connected to the local db (mysql) for development
+
 If you're still a student, you can even use this to manage your own timetable, which I think is a nice touch!
 
 Expect to get to grips with basic object-oriented programming (OOP), database management, and other essential programming concepts with PHP.
