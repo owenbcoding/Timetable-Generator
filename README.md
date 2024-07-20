@@ -1,4 +1,4 @@
-For this project I set it up in wsl and set up the docker files and connected to the local db (Mariadb) for development
+For this project I set it up in wsl and set up the docker files and connected to a local db (Mariadb) for development
 
 If you're still a student, you can even use this to manage your own timetable, which I think is a nice touch!
 
