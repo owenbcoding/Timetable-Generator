@@ -1,7 +1,7 @@
     <header>
         <nav>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">About</a></li>
-            <li><a href="#">Contact</a></li>
+            <li><a href="/home.php">Home</a></li>
+            <li><a href="/about.php">About</a></li>
+            <li><a href="/contact.php">Contact</a></li>
         </nav>
     </header>
