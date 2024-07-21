@@ -31,6 +31,15 @@ footer {
     margin-top: 50px;
 }
 
+.about-content { 
+    text-align: center;
+    margin: 40px;
+}
+
+.about-text { 
+    margin-top: 40px;
+}
+
 .footer-text { 
     margin-top: 50px;
 }
