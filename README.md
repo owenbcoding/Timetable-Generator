@@ -1,8 +1,8 @@
 For this project I set it up in wsl and set up the docker files and connected to a local db (Mariadb) for development
 
-If you're still a student, you can even use this to manage your own timetable, which I think is a nice touch!
+If you're still a student, you can even use this to manage your own timetable, which I think is a nice touch! 
 
-in this this project Expect to get to grips with basic object-oriented programming (OOP), database management, and other essential programming concepts with PHP.
+in this this project I Expect to get to grips with basic object-oriented programming (OOP), database management, and other essential programming concepts with PHP.
 
 You'll also have the option to add extra features like varying time zones, student requirements, or attendance record updates in real time.
 
