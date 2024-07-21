@@ -11,17 +11,14 @@
 </head>
 
 <body>
-    <header>
-        <nav>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">About</a></li>
-            <li><a href="#">Contact</a></li>
-        </nav>
-    </header>
-    <h1>Timetable-Generator</h1>
+<?php include 'navbar.php'; ?>
+    <h1 class="main-title">Timetable-Generator</h1>
     <main class="main-container">
+        <div class="project-image">
 
+        </div>
     </main>
+<?php include 'footer.php'; ?>
 </body>
 
 </html>
