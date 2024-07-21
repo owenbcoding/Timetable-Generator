@@ -2,6 +2,31 @@
     margin: 0;
 }
 
-h1 { 
+nav { 
+    display: flex;
+    justify-content: center;
+}
+
+li { 
+    list-style: none;
+    padding: 20px;
+}
+
+a { 
+    text-decoration: none;
+    color: black;
+    font-size: x-large;
+}
+
+footer { 
     text-align: center;
+}
+
+.main-title {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.footer-text { 
+    margin-top: 50px;
 }
