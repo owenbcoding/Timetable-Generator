@@ -12,11 +12,11 @@ If you're still a student, you can even use this to manage your own timetable, w
 
 - PHP 7.4 or higher
 
-- MySQL 5.7 or higher
+- MariaDb 10.4 or higher
 
-- Nginx with PHP and MySQL installed locally
+- Nginx with PHP and MariaDb installed locally
 
-- Basic knowledge of PHP and MySQL
+- Basic knowledge of PHP and MariaDb
 
 - Basic knowledge of HTML, CSS, and JavaScript
 
