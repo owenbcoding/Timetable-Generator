@@ -1,9 +1,49 @@
-For this project I set it up in wsl and set up the docker files and connected to a local db (Mariadb) for development
+# PHP Project: Student Management System
+
+## Project Description
+
+This project is a simple student management system built with PHP and MySQL. It allows you to manage student information, such as names, email addresses, and phone numbers.
+
+The project is a simple CRUD (Create, Read, Update, Delete) application, which means you can create, read, update, and delete student records.
 
 If you're still a student, you can even use this to manage your own timetable, which I think is a nice touch! 
 
-in this this project I Expect to get to grips with basic object-oriented programming (OOP), database management, and other essential programming concepts with PHP.
+## Project Requirements
 
-You'll also have the option to add extra features like varying time zones, student requirements, or attendance record updates in real time.
+- PHP 7.4 or higher
 
-Much like the CRM project, this is another great project with a real-world use case that can add some weight to your portfolio.
+- MySQL 5.7 or higher
+
+- Nginx with PHP and MySQL installed locally
+
+- Basic knowledge of PHP and MySQL
+
+- Basic knowledge of HTML, CSS, and JavaScript
+
+## Project Instructions
+
+1. Clone the repository from GitHub:
+
+```bash 
+git clone https://github.com/your-username/student-management-system.git
+```
+
+2. Navigate to the project directory:
+
+```bash
+cd student-management-system
+```
+
+3. Start the local web server:
+
+```bash
+start nginx
+```
+
+4. Open your web browser and navigate to http://localhost:3000
+
+## Project Notes
+
+For this project I set it up in wsl and set up the docker files and connected to a local db (Mariadb) for development and used docker compose up to run the containers.
+
+In this this project I wanted to get to grips with basic object-oriented programming (OOP), database management, and other essential programming concepts with PHP.
